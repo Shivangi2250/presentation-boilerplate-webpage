@@ -1,2 +1,2 @@
 # presentation-boilerplate-webpage
-A useful presentation that can be very useful as boilerplate 
+A useful webpage presentation using css ,html, jquery that can be very useful as boilerplate 
